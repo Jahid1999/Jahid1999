@@ -19,9 +19,11 @@
             
 </dev>
 
+---
+
 <div align="left"> 
             
-### Skills            
+## Skills            
 <details>
     <summary>Backend Skills</summary>
     
@@ -79,6 +81,10 @@
 
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
+
+### 📕 Latest Blog Posts on [Medium](https://jahid1030.medium.com/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=Jahid1999&&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
