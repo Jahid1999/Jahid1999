@@ -2,9 +2,7 @@
 
 > Studying Bachelor of Science in Software Engineering,
 
-> [Institute of Information Technology](http://iit.du.ac.bd)
-
-> University of Dhaka
+> [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
             
 ![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=Jahid1999&&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
