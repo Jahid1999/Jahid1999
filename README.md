@@ -81,14 +81,17 @@
 
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
-
+---
+            
 ### 📕 Latest Blog Posts on [Medium](https://jahid1030.medium.com/)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2" alt="Article on Git Commands"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0" alt="Article on Docker Commands">            
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/1" alt="Article on Docker">
+ 
+### Profile Views
+![Profile views](https://gpvc.arturio.dev/Jahid1999) 
             
 ![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=Jahid1999&&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
+    
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1999&layout=compact)](https://github.com/Jahid1999/github-readme-stats) -->
 
