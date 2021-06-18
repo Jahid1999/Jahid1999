@@ -32,9 +32,9 @@
 ![Node](https://img.shields.io/badge/-Node-black?style=flat&logo=Node.js&logoColor=green)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-009688?style=flat&logo=API&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)
-<!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)            
+<!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) -->
 <!-- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) -->
 </details>
 
