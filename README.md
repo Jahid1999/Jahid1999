@@ -82,6 +82,10 @@
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
 ---
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->            
             
 ### 📕 Latest Blog Posts on [Medium](https://jahid1030.medium.com/)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2" alt="Article on Git Commands"> 
