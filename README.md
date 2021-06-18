@@ -81,19 +81,15 @@
 
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
----
-
-## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Useful Docker Commands for Beginners](https://jahid1030.medium.com/useful-docker-commands-for-beginners-123408ab0d9e?source=rss-a93ad9df0b09------2)
-- [Docker overview for Beginners](https://jahid1030.medium.com/what-makes-docker-so-important-839518927a61?source=rss-a93ad9df0b09------2)
-- [Basic Git Commands Every Developer Should Know(Git & Github)](https://jahid1030.medium.com/basic-git-commands-every-developer-should-know-git-github-1e07d081af29?source=rss-a93ad9df0b09------2)
-<!-- BLOG-POST-LIST:END -->            
+---           
             
 ### 📕 Latest Blog Posts on [Medium](https://jahid1030.medium.com/)
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2" alt="Article on Git Commands"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0" alt="Article on Docker Commands">            
- 
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2" alt="Article on Git Commands"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0" alt="Article on Docker Commands">             -->
+            
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+            
 ---
             
 ### Profile Views
