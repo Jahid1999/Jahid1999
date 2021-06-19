@@ -28,10 +28,9 @@
     <summary>Backend Skills</summary>
     
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=Laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-092E20?style=flat&logo=Express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-092E20?style=flat&logo=Express&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-black?style=flat&logo=Node.js&logoColor=green)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-009688?style=flat&logo=API&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)            
 <!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) -->
@@ -76,6 +75,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-3b00b3?style=flat&logo=Javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-602020?style=flat&logo=htmL&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-336600?style=flat&logo=css&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)            
 ![Javafx](https://img.shields.io/badge/-JavaFX-D00000?style=flat&logo=JavaFX&logoColor=white)           
 </details>
 
