@@ -94,7 +94,13 @@
 <!-- BLOG-POST-LIST:END -->
             
 ---
-            
+
+### 📕 Latest Blog Posts on [DEV](https://dev.to/jahid1030)
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->    
+ 
+---            
+                        
 ### Profile Views
 ![Profile views](https://gpvc.arturio.dev/Jahid1999) 
             
