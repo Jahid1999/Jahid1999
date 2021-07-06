@@ -75,7 +75,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-3b00b3?style=flat&logo=Javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-602020?style=flat&logo=htmL&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-336600?style=flat&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)            
+![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)
 ![Javafx](https://img.shields.io/badge/-JavaFX-D00000?style=flat&logo=JavaFX&logoColor=white)           
 </details>
 
