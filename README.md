@@ -41,6 +41,7 @@
 <details>
     <summary>Frontend Skills</summary>
 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-51b984?style=flat&logo=Vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-008080?style=flat&logo=Nuxt.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-5c5c8a?style=flat&logo=Quasar&logoColor=default) 
@@ -73,6 +74,7 @@
 ![C++](https://img.shields.io/badge/-C++-F7931E?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-cc2900?style=flat&logo=Java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-3b00b3?style=flat&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-602020?style=flat&logo=htmL&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-336600?style=flat&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)
