@@ -44,6 +44,7 @@
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-51b984?style=flat&logo=Vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-008080?style=flat&logo=Nuxt.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-35495E?style=flat&logo=redux&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-5c5c8a?style=flat&logo=Quasar&logoColor=default) 
 ![Vuetify](https://img.shields.io/badge/-Vuetify-001a33?style=flat&logo=Vuetify&logoColor=e7f2fe)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
