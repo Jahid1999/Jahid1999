@@ -1,5 +1,7 @@
 <div align="center">
             
+![Hi, I'm Abdullah Al Jahid](https://github.com/Jahid1999/Jahid1999/blob/master/gitartwork.svg)
+            
 ## Hi, I'm Abdullah Al Jahid 🇧🇩
 
 > Studying Bachelor of Science in Software Engineering,
