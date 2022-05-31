@@ -102,6 +102,7 @@
 
 ### 📕 Latest Blog Posts on [DEV](https://dev.to/jahid1030)
 <!-- DEVTO:START -->
+- [MUST USE VSCODE EXTENSIONS](https://dev.to/jahid1030/must-use-vscode-extensions-1lj7)
 - [Markdown Cheat Sheet](https://dev.to/jahid1030/markdown-cheat-sheet-1a17)
 <!-- DEVTO:END -->    
  
