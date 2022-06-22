@@ -114,8 +114,8 @@
 ![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=Jahid1999&&count_private=true&&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
     
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1999&layout=compact)](https://github.com/Jahid1999/github-readme-stats) -->
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1999)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jahid1999)   -->
 
 </div>
 
