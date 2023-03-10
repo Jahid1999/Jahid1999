@@ -2,11 +2,11 @@
             
 ![Hi, I'm Abdullah Al Jahid](https://github.com/Jahid1999/Jahid1999/blob/master/greetings.svg)
             
-## Hi, I'm Abdullah Al Jahid 🇧🇩
+## Hi, I'm Abdullah Al Jahid 😄
 
-> Studying Bachelor of Science in Software Engineering,
+> I am a Software Engineering graduate from [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
 
-> [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
+> Currently working as an Associate Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code.
             
 
 #### Follow Me Around The Web 🌏
@@ -15,7 +15,7 @@
 
 <a target="_blank" href="https://jahid1030.medium.com/"><img src="https://img.shields.io/badge/Medium-%23262626.svg?&style=plastic&logo=Medium&logoColor=white" alt="Medium"></a>
 <a target="_blank" href="https://www.linkedin.com/in/abdullah-al-jahid-a6090a194/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://dev.to/jahid1030"><img src="https://img.shields.io/badge/DEV.to-%235c5c3d.svg?&style=plastic&logo=dev.to&logoColor=black" alt="DEV.to"></a>
+<a target="_blank" href="https://dev.to/jahid1030"><img src="https://img.shields.io/badge/DEV-%235c5c3d.svg?&style=plastic&logo=dev.to&logoColor=black" alt="DEV"></a>
 <a target="_blank" href="https://www.facebook.com/aa.jahid30/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=Facebook&logoColor=white" alt="Facebook"></a>
 
             
