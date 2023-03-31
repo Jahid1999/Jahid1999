@@ -95,6 +95,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0" alt="Article on Docker Commands">             -->
             
 <!-- BLOG-POST-LIST:START -->
+- [Powering Dynamic Web Design: Unlocking the Potential of ‘iframes’](https://jahid1030.medium.com/powering-dynamic-web-design-unlocking-the-potential-of-iframes-60f84a6f21e?source=rss-a93ad9df0b09------2)
 - [Useful Docker Commands for Beginners](https://jahid1030.medium.com/useful-docker-commands-for-beginners-123408ab0d9e?source=rss-a93ad9df0b09------2)
 - [Docker overview for Beginners](https://jahid1030.medium.com/what-makes-docker-so-important-839518927a61?source=rss-a93ad9df0b09------2)
 - [Basic Git Commands Every Developer Should Know&lpar;Git &amp; Github&rpar;](https://jahid1030.medium.com/basic-git-commands-every-developer-should-know-git-github-1e07d081af29?source=rss-a93ad9df0b09------2)
