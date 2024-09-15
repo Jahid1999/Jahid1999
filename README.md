@@ -35,8 +35,9 @@
 ![Express.js](https://img.shields.io/badge/-Express-092E20?style=flat&logo=Express&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-black?style=flat&logo=Node.js&logoColor=green)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-009688?style=flat&logo=API&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)            
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)           
 <!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) -->
 <!-- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) -->
 </details>
@@ -45,6 +46,7 @@
 <details>
     <summary>Frontend Skills</summary>
 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-51b984?style=flat&logo=Vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-008080?style=flat&logo=Nuxt.js&logoColor=white)
