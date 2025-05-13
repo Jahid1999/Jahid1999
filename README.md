@@ -6,7 +6,7 @@
 
 > I am a Software Engineering graduate from [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
 
-> Currently working as an Associate Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code.
+> Currently working as a Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code.
             
 
 #### Follow Me Around The Web 🌏
