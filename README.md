@@ -6,7 +6,7 @@
 
 > I am a Software Engineering graduate from [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
 
-> Currently working as a Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code.
+> Currently working as a Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code. Portfolio: [https://abdullah-al-jahid.vercel.app](https://abdullah-al-jahid.vercel.app)
             
 
 #### Follow Me Around The Web 🌏
