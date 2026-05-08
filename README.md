@@ -1,150 +1,126 @@
 <div align="center">
-            
+
 ![Hi, I'm Abdullah Al Jahid](https://github.com/Jahid1999/Jahid1999/blob/master/greetings.svg)
-            
+
 ## Hi, I'm Abdullah Al Jahid 😄
 
 > I am a Software Engineering graduate from [Institute of Information Technology](http://iit.du.ac.bd), **University of Dhaka**
 
 > Currently working as a Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code. Portfolio: [https://abdullah-al-jahid.vercel.app](https://abdullah-al-jahid.vercel.app)
+
+> Creator of [**ToolZip**](https://toolzip.xyz) — 28+ free, browser-based developer tools & utilities. Check it out: [https://toolzip.xyz](https://toolzip.xyz)
             
 
 #### Follow Me Around The Web 🌏
-
-<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/-%23.svg?&style=plastic&logo=&logoColor=white" alt=""></a> -->
 
 <a target="_blank" href="https://jahid1030.medium.com/"><img src="https://img.shields.io/badge/Medium-%23262626.svg?&style=plastic&logo=Medium&logoColor=white" alt="Medium"></a>
 <a target="_blank" href="https://www.linkedin.com/in/abdullah-al-jahid-a6090a194/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a target="_blank" href="https://dev.to/jahid1030"><img src="https://img.shields.io/badge/DEV-%235c5c3d.svg?&style=plastic&logo=dev.to&logoColor=black" alt="DEV"></a>
 <a target="_blank" href="https://www.facebook.com/aa.jahid30/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=Facebook&logoColor=white" alt="Facebook"></a>
 
-            
-</dev>
+---
+
+### What I'm Working On
+
+**[ToolZip](https://toolzip.xyz)** — Free online developer tools that run entirely in your browser. No sign-up, no tracking, no server-side processing.
+
+| Category       | Tools                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Developer**  | [JSON Formatter](https://toolzip.xyz/tools/json-formatter), [Regex Tester](https://toolzip.xyz/tools/regex-tester), [UUID Generator](https://toolzip.xyz/tools/uuid-ulid-generator), [JWT Decoder](https://toolzip.xyz/tools/jwt-decoder), [Cron Generator](https://toolzip.xyz/tools/cron-expression-generator), [Hash Generator](https://toolzip.xyz/tools/hash-generator) |
+| **Text**       | [Word Counter](https://toolzip.xyz/tools/word-counter), [Case Converter](https://toolzip.xyz/tools/case-converter), [Text Diff](https://toolzip.xyz/tools/text-diff-checker), [Lorem Ipsum](https://toolzip.xyz/tools/lorem-ipsum-generator), [Markdown to HTML](https://toolzip.xyz/tools/markdown-to-html)                                                                 |
+| **Converters** | [Color Converter](https://toolzip.xyz/tools/color-converter), [Unix Timestamp](https://toolzip.xyz/tools/unix-timestamp-converter), [Base64](https://toolzip.xyz/tools/base64-encoder-decoder), [CSS Units](https://toolzip.xyz/tools/css-unit-converter), [Image Converter](https://toolzip.xyz/tools/image-format-converter)                                               |
+
+> **[Explore all 28+ tools at toolzip.xyz](https://toolzip.xyz)**
 
 ---
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Jahid1999.Jahid1999) -->
+</div>
 
-<div align="left"> 
-            
-## Skills            
+## Tech Stack
+
 <details>
-    <summary>Backend Skills</summary>
-    
+<summary><b>Backend</b></summary>
+<br>
+
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=Laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-092E20?style=flat&logo=Express&logoColor=white)
-![Node](https://img.shields.io/badge/-Node-black?style=flat&logo=Node.js&logoColor=green)
-![RestAPI](https://img.shields.io/badge/-RestAPI-009688?style=flat&logo=API&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-cc9900?style=flat&logo=MySQL&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)           
-<!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white) -->
-<!-- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-004d00?style=flat&logo=MongoDB&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=API&logoColor=white)
+
 </details>
 
-
 <details>
-    <summary>Frontend Skills</summary>
+<summary><b>Frontend</b></summary>
+<br>
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-51b984?style=flat&logo=Vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-008080?style=flat&logo=Nuxt.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-35495E?style=flat&logo=redux&logoColor=white)
-![Quasar](https://img.shields.io/badge/-Quasar-5c5c8a?style=flat&logo=Quasar&logoColor=default) 
-![Vuetify](https://img.shields.io/badge/-Vuetify-001a33?style=flat&logo=Vuetify&logoColor=e7f2fe)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-![Shards-Vue](https://img.shields.io/badge/-Shards-ccffcc?style=flat&logo=Shards&logoColor=e7f2fe)            
+
 </details>
 
 <details>
-    <summary>Cloud Skills</summary>
+<summary><b>DevOps & Cloud</b></summary>
+<br>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 </details>
 
 <details>
-    <summary>Network & Security Skills</summary>
- 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp--Suite-557C94?style=flat&logo=burp%20Linux&logoColor=white)
-![Vega](https://img.shields.io/badge/-Vega-1679A7?style=flat&logo=vega&logoColor=white)            
-<!-- ![And many more...](https://img.shields.io/badge/-And--many--more...-black?style=flat&logo=&logoColor=white) -->
-</details>
-            
-<details>
-    <summary>Languages</summary>
-    
-![C](https://img.shields.io/badge/-C-150458?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-F7931E?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-cc2900?style=flat&logo=Java&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-3b00b3?style=flat&logo=Javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-602020?style=flat&logo=htmL&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-336600?style=flat&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-150458?style=flat&logo=PHP&logoColor=white)
-![Javafx](https://img.shields.io/badge/-JavaFX-D00000?style=flat&logo=JavaFX&logoColor=white)           
+<summary><b>Languages</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-cc2900?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+
 </details>
 
+---
 
-<!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
----           
-            
-### 📕 Latest Blog Posts on [Medium](https://jahid1030.medium.com/)
-<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/2" alt="Article on Git Commands"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jahid1030/0" alt="Article on Docker Commands">             -->
-            
+### Latest Blog Posts
+
+#### [Medium](https://jahid1030.medium.com/)
+
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Danger of target=&quot;_blank&quot; and How to Fix It](https://jahid1030.medium.com/the-hidden-danger-of-target-blank-and-how-to-fix-it-5910a94c798c?source=rss-a93ad9df0b09------2)
-- [Powering Dynamic Web Design: Unlocking the Potential of ‘iframes’](https://jahid1030.medium.com/powering-dynamic-web-design-unlocking-the-potential-of-iframes-60f84a6f21e?source=rss-a93ad9df0b09------2)
+
+- [The Hidden Danger of target=&quot;\_blank&quot; and How to Fix It](https://jahid1030.medium.com/the-hidden-danger-of-target-blank-and-how-to-fix-it-5910a94c798c?source=rss-a93ad9df0b09------2)
+- [Powering Dynamic Web Design: Unlocking the Potential of 'iframes'](https://jahid1030.medium.com/powering-dynamic-web-design-unlocking-the-potential-of-iframes-60f84a6f21e?source=rss-a93ad9df0b09------2)
 - [Useful Docker Commands for Beginners](https://jahid1030.medium.com/useful-docker-commands-for-beginners-123408ab0d9e?source=rss-a93ad9df0b09------2)
 - [Docker overview for Beginners](https://jahid1030.medium.com/what-makes-docker-so-important-839518927a61?source=rss-a93ad9df0b09------2)
 - [Basic Git Commands Every Developer Should Know&lpar;Git &amp; Github&rpar;](https://jahid1030.medium.com/basic-git-commands-every-developer-should-know-git-github-1e07d081af29?source=rss-a93ad9df0b09------2)
 <!-- BLOG-POST-LIST:END -->
-            
----
 
-### 📕 Latest Blog Posts on [DEV](https://dev.to/jahid1030)
+#### [DEV.to](https://dev.to/jahid1030)
+
 <!-- DEVTO:START -->
+
 - [MUST USE VSCODE EXTENSIONS](https://dev.to/jahid1030/must-use-vscode-extensions-1lj7)
 - [Markdown Cheat Sheet](https://dev.to/jahid1030/markdown-cheat-sheet-1a17)
-<!-- DEVTO:END -->    
- 
----            
-                        
-### Profile Views
-![Profile views](https://gpvc.arturio.dev/Jahid1999) 
+<!-- DEVTO:END -->
+
+---
+
+<div align="center">
 
 ### GitHub Stats
-<div align="center">
-            
-<a  href="https://github.com/Jahid1999/Jahid1999"><img  alt="Streak Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=Jahid1999&theme=highcontrast"/></a>
 
-             
-<!--![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=Jahid1999&&count_private=true&&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->          
-</div>
-
-
-    
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahid1999)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jahid1999)   -->
+<a href="https://github.com/Jahid1999/Jahid1999"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahid1999&theme=highcontrast"/></a>
 
 </div>
-
-<!--
-**Jahid1999/Jahid1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
