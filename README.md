@@ -99,12 +99,11 @@
 #### [Medium](https://jahid1030.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
-
-- [The Hidden Danger of target=&quot;\_blank&quot; and How to Fix It](https://jahid1030.medium.com/the-hidden-danger-of-target-blank-and-how-to-fix-it-5910a94c798c?source=rss-a93ad9df0b09------2)
-- [Powering Dynamic Web Design: Unlocking the Potential of 'iframes'](https://jahid1030.medium.com/powering-dynamic-web-design-unlocking-the-potential-of-iframes-60f84a6f21e?source=rss-a93ad9df0b09------2)
+- [Stop Using chmod 777: A Developer’s Guide to Linux File Permissions](https://jahid1030.medium.com/stop-using-chmod-777-a-developers-guide-to-linux-file-permissions-a7378a788f94?source=rss-a93ad9df0b09------2)
+- [The Hidden Danger of target=&quot;_blank&quot; and How to Fix It](https://jahid1030.medium.com/the-hidden-danger-of-target-blank-and-how-to-fix-it-5910a94c798c?source=rss-a93ad9df0b09------2)
+- [Powering Dynamic Web Design: Unlocking the Potential of ‘iframes’](https://jahid1030.medium.com/powering-dynamic-web-design-unlocking-the-potential-of-iframes-60f84a6f21e?source=rss-a93ad9df0b09------2)
 - [Useful Docker Commands for Beginners](https://jahid1030.medium.com/useful-docker-commands-for-beginners-123408ab0d9e?source=rss-a93ad9df0b09------2)
 - [Docker overview for Beginners](https://jahid1030.medium.com/what-makes-docker-so-important-839518927a61?source=rss-a93ad9df0b09------2)
-- [Basic Git Commands Every Developer Should Know&lpar;Git &amp; Github&rpar;](https://jahid1030.medium.com/basic-git-commands-every-developer-should-know-git-github-1e07d081af29?source=rss-a93ad9df0b09------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### [DEV.to](https://dev.to/jahid1030)
