@@ -110,7 +110,7 @@
 #### [DEV.to](https://dev.to/jahid1030)
 
 <!-- DEVTO:START -->
-
+- [Stop Using chmod 777: A Developer&#39;s Guide to Linux File Permissions](https://dev.to/jahid1030/stop-using-chmod-777-a-developers-guide-to-linux-file-permissions-36dp)
 - [MUST USE VSCODE EXTENSIONS](https://dev.to/jahid1030/must-use-vscode-extensions-1lj7)
 - [Markdown Cheat Sheet](https://dev.to/jahid1030/markdown-cheat-sheet-1a17)
 <!-- DEVTO:END -->
