@@ -8,8 +8,8 @@
 
 > Currently working as a Software Engineer at [Streams Tech Ltd](https://bd.streamstech.com/). I am a backend heavy Full-Stack developer and love writing clean and maintainable code. Portfolio: [https://abdullah-al-jahid.vercel.app](https://abdullah-al-jahid.vercel.app)
 
-> Creator of [**ToolZip**](https://toolzip.xyz) — 28+ free, browser-based developer tools & utilities. Check it out: [https://toolzip.xyz](https://toolzip.xyz)
-            
+> Creator of [**ToolZip**](https://toolzip.xyz) — free, browser-based developer tools **plus a 1,700+ component Claude Code catalog** (agents, commands, MCP servers, skills, settings & hooks). Check it out: [https://toolzip.xyz](https://toolzip.xyz)
+
 
 #### Follow Me Around The Web 🌏
 
@@ -22,7 +22,24 @@
 
 ### What I'm Working On
 
-**[ToolZip](https://toolzip.xyz)** — Free online developer tools that run entirely in your browser. No sign-up, no tracking, no server-side processing.
+**[ToolZip](https://toolzip.xyz)** — Free online developer tools that run entirely in your browser (no sign-up, no tracking, no server-side processing) **plus a curated [Claude Code](https://toolzip.xyz/claude-code) catalog** of ready-to-install AI dev components.
+
+#### 🤖 [Claude Code Catalog](https://toolzip.xyz/claude-code)
+
+One-line-install agents, commands, MCP servers, skills, settings & hooks for [Anthropic Claude Code](https://toolzip.xyz/claude-code) — **1,796+ curated components** across 6 types.
+
+| Component Type                                                    | Count | What it is                                                        |
+| ---------------------------------------------------------------- | ----- | ----------------------------------------------------------------- |
+| [**Agents**](https://toolzip.xyz/claude-code/agents)             | 421   | Specialized AI subagents with their own prompt, tools & context   |
+| [**Commands**](https://toolzip.xyz/claude-code/commands)         | 286   | Reusable slash commands that automate repeatable prompts          |
+| [**MCP Servers**](https://toolzip.xyz/claude-code/mcps)          | 93    | Model Context Protocol servers that connect Claude to your tools  |
+| [**Skills**](https://toolzip.xyz/claude-code/skills)             | 865   | Packaged, model-invoked instruction bundles for reusable ability  |
+| [**Settings**](https://toolzip.xyz/claude-code/settings)         | 69    | Drop-in `settings.json` configs for permissions, env & more       |
+| [**Hooks**](https://toolzip.xyz/claude-code/hooks)               | 62    | Shell commands that fire on Claude Code lifecycle events          |
+
+> **[Browse the full Claude Code catalog →](https://toolzip.xyz/claude-code)**
+
+#### 🛠️ Browser-Based Tools
 
 | Category       | Tools                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +47,7 @@
 | **Text**       | [Word Counter](https://toolzip.xyz/text-tools/word-counter), [Case Converter](https://toolzip.xyz/text-tools/case-converter), [Text Diff](https://toolzip.xyz/text-tools/text-diff), [Lorem Ipsum](https://toolzip.xyz/text-tools/lorem-ipsum-generator), [Markdown to HTML](https://toolzip.xyz/text-tools/markdown-to-html) |
 | **Converters** | [Color Converter](https://toolzip.xyz/converters/color-converter), [Unix Timestamp](https://toolzip.xyz/converters/timestamp-converter), [Base64](https://toolzip.xyz/developer-tools/base64-encoder), [CSS Units](https://toolzip.xyz/converters/css-unit-converter), [Image Converter](https://toolzip.xyz/converters/image-format-converter) |
 
-> **[Explore all 28+ tools at toolzip.xyz](https://toolzip.xyz)**
+> **[Explore all tools & the Claude Code catalog at toolzip.xyz](https://toolzip.xyz)**
 
 ---
 
