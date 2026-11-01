@@ -133,6 +133,8 @@ Free family games where every game can be played three ways: **solo**, **against
 <td valign="top">
 
 <!-- DEVTO:START -->
+- [How to build a daily challenge that&#39;s the same for every player, with no server](https://dev.to/playtrova/how-to-build-a-daily-challenge-thats-the-same-for-every-player-with-no-server-176l)
+- [How I built 17 browser games as a fully static Next.js site &lpar;no backend&rpar;](https://dev.to/jahid1030/how-i-built-17-browser-games-as-a-fully-static-nextjs-site-no-backend-22ad)
 - [Stop Using chmod 777: A Developer&#39;s Guide to Linux File Permissions](https://dev.to/jahid1030/stop-using-chmod-777-a-developers-guide-to-linux-file-permissions-36dp)
 - [MUST USE VSCODE EXTENSIONS](https://dev.to/jahid1030/must-use-vscode-extensions-1lj7)
 - [Markdown Cheat Sheet](https://dev.to/jahid1030/markdown-cheat-sheet-1a17)
